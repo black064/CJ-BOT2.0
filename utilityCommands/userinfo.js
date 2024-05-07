@@ -13,8 +13,8 @@ module.exports = {
         .setColor('#FFFFFF')
         .setAuthor({
         name: 'User Info!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1140841446228897932/1144684108174348318/giphy_1.gif', 
-        url: 'https://discord.gg/FUEHs7RCqz'
+        iconURL: 'https://cdn.discordapp.com/attachments/736261745483710487/1237231064481796237/yay-yeah.gif?ex=663ae4b8&is=66399338&hm=0e6565dc1867959993e430f5046744cc831076da0e525f39118f43681b992494&', 
+        url: 'https://discord.gg/RhMX7TK6'
     })
         .setThumbnail(user.avatarURL({ format: 'png', dynamic: true, size: 1024 }))
         .setDescription(`**Username**:  ${user.username}\n**Discriminator**:  ${user.discriminator}\n**ID**:  ${user.id}\n**Joined Discord**:  ${user.createdAt.toUTCString()}`)
