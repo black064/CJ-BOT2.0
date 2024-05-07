@@ -9,7 +9,7 @@ module.exports = {
             .setColor('#FFFFFF')
             .setTitle('Support server')
             .setDescription(`Click [here](${supportServerLink}) to join our server.\nWe will be there for you anytime ❤️`)
-            .setThumbnail(`https://cdn.discordapp.com/attachments/1113800537402527903/1119995338359586837/a_e8d3128cee7f07ccec68962a8294f43d.gif`)
+            .setThumbnail(`https://cdn.discordapp.com/attachments/736261745483710487/1237231064481796237/yay-yeah.gif?ex=663ae4b8&is=66399338&hm=0e6565dc1867959993e430f5046744cc831076da0e525f39118f43681b992494&`)
             .setTimestamp();
 
 
